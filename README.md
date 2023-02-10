@@ -22,3 +22,6 @@ MIT License
 ---
 
 Screenshot
+<img title="deployed password generator" alt="Password Generator" src="/assets/images/screenshot-of-deploy.jpg">
+
+link: https://dspnc.github.io/password-generator/
